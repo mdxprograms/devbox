@@ -1,4 +1,4 @@
-FROM mdxprograms/devbox
+FROM jare/vim-bundle
 
 MAINTAINER mdxprograms <mdx.programs@gmail.com>
 
